@@ -1,0 +1,10 @@
+C:\Users\junxi\source\repos\AutoClicker\AutoClicker\bin\Debug\AutoClicker.exe.config
+C:\Users\junxi\source\repos\AutoClicker\AutoClicker\bin\Debug\AutoClicker.exe
+C:\Users\junxi\source\repos\AutoClicker\AutoClicker\bin\Debug\AutoClicker.pdb
+C:\Users\junxi\source\repos\AutoClicker\AutoClicker\obj\Debug\AutoClicker.csprojAssemblyReference.cache
+C:\Users\junxi\source\repos\AutoClicker\AutoClicker\obj\Debug\AutoClicker.ClickForm.resources
+C:\Users\junxi\source\repos\AutoClicker\AutoClicker\obj\Debug\AutoClicker.Properties.Resources.resources
+C:\Users\junxi\source\repos\AutoClicker\AutoClicker\obj\Debug\AutoClicker.csproj.GenerateResource.cache
+C:\Users\junxi\source\repos\AutoClicker\AutoClicker\obj\Debug\AutoClicker.csproj.CoreCompileInputs.cache
+C:\Users\junxi\source\repos\AutoClicker\AutoClicker\obj\Debug\AutoClicker.exe
+C:\Users\junxi\source\repos\AutoClicker\AutoClicker\obj\Debug\AutoClicker.pdb

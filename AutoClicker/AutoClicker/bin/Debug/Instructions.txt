@@ -1,0 +1,13 @@
+lclick:123,123
+rclick:125,900
+shiftclick:100,100
+moveto:200,200
+copy
+imgwait:sub1.PNG
+copycopy
+rclick:1514,649
+copy
+paste
+copy
+paste
+hello
